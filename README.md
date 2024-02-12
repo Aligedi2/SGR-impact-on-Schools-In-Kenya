@@ -1,9 +1,9 @@
-# Enrollment Data Analysis for Secondary and Primary Schools: Impact of SGR using difference-in-difference estimation model
+### Enrollment Data Analysis for Secondary and Primary Schools: Impact of SGR using difference-in-difference estimation model
 
-# Overview:
+### Overview:
 This project focuses on analyzing enrollment data for secondary and primary schools to assess the impact of the Standard Gauge Railway (SGR) on education in various counties. The primary objective is to determine whether the implementation of the SGR has had any significant effects on school enrollment in both secondary and primary education sectors.
 
-# Project Structure:
+### Project Structure:
 The project consists of the following key components:
 
 **Data Collection**: Enrollment data for secondary and primary schools across different counties is collected and organized into a structured format for analysis.
@@ -27,12 +27,12 @@ Visualization: Graphical visualizations, such as line plots and regression plots
 
 Reporting: A comprehensive report summarizing the analysis results, including key findings, statistical metrics, and visualizations, is compiled to provide insights into the impact of SGR on school enrollment.
 
-# The project consists of the following key components:
+### The project consists of the following key components:
 **enrollment_data.csv**: CSV file containing enrollment data for secondary and primary schools, organized by county and year.
 **enrollment_analysis.ipynb**: Jupyter Notebook containing the Python code for data analysis, preprocessing, modeling, and visualization.
 **README.md**: This readme file providing an overview of the project, its objectives, and file structure.
 
-# Requirements:
+### Requirements:
 The following libraries are required to execute the code in the Jupyter Notebook:
 
 pandas
@@ -42,7 +42,7 @@ scipy
 matplotlib
 seaborn
 
-# Instructions:
+### Instructions:
 1.Clone the repository to your local machine.
 2.Ensure that Python and Jupyter Notebook are installed on your system.
 3.Install the required Python libraries using pip or conda: pip install pandas numpy statsmodels scipy matplotlib seaborn.
@@ -52,6 +52,7 @@ seaborn
 7.Modify the notebook as needed for further analysis or customization.
 8.Refer to the report for a detailed summary of the analysis results and insights.
 
+## Report
 
 Based on the analysis of the enrollment data for secondary and primary schools, here is a detailed report on the findings
 :
