@@ -1,4 +1,4 @@
-# Enrollment Data Analysis for Secondary and Primary Schools: Impact of SGR
+# Enrollment Data Analysis for Secondary and Primary Schools: Impact of SGR using difference-in-difference estimation model
 
 # Overview:
 This project focuses on analyzing enrollment data for secondary and primary schools to assess the impact of the Standard Gauge Railway (SGR) on education in various counties. The primary objective is to determine whether the implementation of the SGR has had any significant effects on school enrollment in both secondary and primary education sectors.
