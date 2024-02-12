@@ -1,3 +1,57 @@
+# Enrollment Data Analysis for Secondary and Primary Schools: Impact of SGR
+
+# Overview:
+This project focuses on analyzing enrollment data for secondary and primary schools to assess the impact of the Standard Gauge Railway (SGR) on education in various counties. The primary objective is to determine whether the implementation of the SGR has had any significant effects on school enrollment in both secondary and primary education sectors.
+
+# Project Structure:
+The project consists of the following key components:
+
+**Data Collection**: Enrollment data for secondary and primary schools across different counties is collected and organized into a structured format for analysis.
+
+**Data Preprocessing**: The collected data is cleaned, processed, and prepared for analysis. This includes handling missing values, formatting dates, and creating relevant features.
+
+**Analysis**: Statistical analysis techniques are applied to the data to assess the impact of SGR on school enrollment. Regression analysis, including Difference-in-Differences (DID) estimation, is used to quantify the relationship between SGR implementation and enrollment figures.
+
+**Visualization**: Graphical visualizations, such as line plots and regression plots, are generated to present the findings of the analysis in an interpretable format.
+
+**Reporting**: A comprehensive report summarizing the analysis results, including key findings, statistical metrics, and visualizations, is compiled to provide insights into the impact of SGR on school enrollment.
+
+
+Data Collection: Enrollment data for secondary and primary schools across different counties is collected and organized into a structured format for analysis.
+
+Data Preprocessing: The collected data is cleaned, processed, and prepared for analysis. This includes handling missing values, formatting dates, and creating relevant features.
+
+Analysis: Statistical analysis techniques are applied to the data to assess the impact of SGR on school enrollment. Regression analysis, including Difference-in-Differences (DID) estimation, is used to quantify the relationship between SGR implementation and enrollment figures.
+
+Visualization: Graphical visualizations, such as line plots and regression plots, are generated to present the findings of the analysis in an interpretable format.
+
+Reporting: A comprehensive report summarizing the analysis results, including key findings, statistical metrics, and visualizations, is compiled to provide insights into the impact of SGR on school enrollment.
+
+# The project consists of the following key components:
+**enrollment_data.csv**: CSV file containing enrollment data for secondary and primary schools, organized by county and year.
+**enrollment_analysis.ipynb**: Jupyter Notebook containing the Python code for data analysis, preprocessing, modeling, and visualization.
+**README.md**: This readme file providing an overview of the project, its objectives, and file structure.
+
+# Requirements:
+The following libraries are required to execute the code in the Jupyter Notebook:
+
+pandas
+numpy
+statsmodels
+scipy
+matplotlib
+seaborn
+
+# Instructions:
+1.Clone the repository to your local machine.
+2.Ensure that Python and Jupyter Notebook are installed on your system.
+3.Install the required Python libraries using pip or conda: pip install pandas numpy statsmodels scipy matplotlib seaborn.
+4.Open the enrollment_analysis.ipynb notebook using Jupyter Notebook.
+5.Run each cell in the notebook sequentially to execute the code and generate analysis results.
+6.Review the generated visualizations and analysis findings.
+7.Modify the notebook as needed for further analysis or customization.
+8.Refer to the report for a detailed summary of the analysis results and insights.
+
 
 Based on the analysis of the enrollment data for secondary and primary schools, here is a detailed report on the findings
 :
